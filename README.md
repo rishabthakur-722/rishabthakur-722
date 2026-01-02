@@ -42,14 +42,12 @@ React.Js      ███████████░░░░░░░░░░   
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabthakur-722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabthakur-722&show_icons=true&theme=tokyonight&hide_border=true)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabthakur-722&theme=tokyonight&hide_border=true" />
 
-![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=rishabthakur-722&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabthakur-722&layout=compact&theme=tokyonight&hide_border=true)
-
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabthakur-722&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p> 
 
 
 
