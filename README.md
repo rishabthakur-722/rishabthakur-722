@@ -10,16 +10,15 @@
 
 I'm a passionate software engineer who loves turning complex problems into elegant solutions. When I'm not coding, you'll find me exploring new technologies, contributing to open source, or mentoring aspiring developers.
 
-- 🔭 Currently building **scalable microservices architectures** at TechCorp
-- 🌱 Deep diving into **Rust, Go, and distributed systems**
+- 🔭 Working on microservices-based applications
 - 👯 Open to collaborating on **innovative open-source projects**
-- 💡 Ask me about **system design, cloud architecture, or anything tech**
-- ⚡ Fun fact: I've solved 500+ problems on LeetCode and still counting
+- 💡 Ask me about **system design, or anything tech**
+- ⚡ Fun fact: I've solved 200+ problems on LeetCode and still counting
 
 ## 🛠️ Tech Stack
 
 **Languages**
-```text
+```
 JavaScript    ████████████████████░   95%
 Java          ███████████████████░░   90%
 Mern          ████████████████░░░░░   80%
@@ -45,23 +44,21 @@ React.Js      ███████████░░░░░░░░░░   
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabthakur-722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rishabthakur-722&theme=tokyonight&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabthakur-722&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabthakur-722&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabthakur-722&theme=tokyonight&hide_border=true" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabthakur-722&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
 
 ## 🏆 Achievements
 
-- 🥇 **2500+** contributions in the last year
-- ⭐ **50+** stars across personal projects
-- 🎯 **Hackathon Winner** at DevFest 2024
-- 📝 **Technical Writer** with 10K+ monthly readers
-- 🎓 **AWS Certified Solutions Architect**
+- 🥇 **500+** contributions in the last year
+- ⭐ **10+** stars across personal projects
+- 🎯 **Hackathon Participate** at PU code Hackathon 3.0
+- 🎓 **Neo.j Certified Solutions Architect**
 
 ## 🔥 Featured Projects
 
