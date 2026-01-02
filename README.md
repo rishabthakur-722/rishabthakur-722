@@ -1,4 +1,4 @@
-# Hey, I'm Rishab Thakur 👋
+# Hey, I'm Aditya Kumar Thakur 👋
 
 <div align="center">
   
@@ -20,10 +20,10 @@ I'm a passionate software engineer who loves turning complex problems into elega
 
 **Languages**
 ```text
-TypeScript    ████████████████████░   95%
-Python        ███████████████████░░   90%
-Go            ████████████████░░░░░   80%
-Rust          ███████████░░░░░░░░░░   55%
+JavaScript    ████████████████████░   95%
+Java          ███████████████████░░   90%
+Mern          ████████████████░░░░░   80%
+React.Js      ███████████░░░░░░░░░░   55%
 ```
 
 **Technologies & Tools**
