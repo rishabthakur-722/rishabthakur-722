@@ -59,9 +59,36 @@ React.Js      ███████████░░░░░░░░░░   
 ## 🔥 Featured Projects
 
 <div align="center">
+## 📌 Featured Project
 
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=rishabthakur-722&repo=distributed-cache&theme=tokyonight&hide_border=true)](https://github.com/rishabthakur-722/distributed-cache)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=rishabthakur-722&repo=realtime-collab&theme=tokyonight&hide_border=true)](https://github.com/rishabthakur-722/realtime-collab)
+### 🎨 Text-to-Image Generator
+
+A full-stack MERN project that generates images from text prompts using AI APIs.
+
+🔗 **Live Demo:** https://text-to-image-generator-phi.vercel.app/  
+💻 **GitHub Repo:** https://github.com/rishabthakur-722/YOUR_GITHUB_REPO_LINK
+
+---
+
+### 🚀 Features
+- Generate images from text prompts  
+- Clean & responsive UI  
+- Full-stack MERN implementation  
+- API-based AI image generation  
+- Real-world project architecture  
+
+---
+
+### 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **API:** AI Image Generation API  
+
+---
+
+### 🎥 Project Preview
+<img src="https://text-to-image-generator-phi.vercel.app/" alt="project preview" width="100%" />
 
 </div>
 
@@ -90,18 +117,6 @@ React.Js      ███████████░░░░░░░░░░   
 - [From Monolith to Microservices: Lessons Learned](https://blog.example.com/microservices-journey)
 - [Advanced TypeScript Patterns You Should Know](https://blog.example.com/typescript-patterns)
 <!-- BLOG-POST-LIST:END -->
-
-## 💼 Experience Highlights
-
-**Senior Software Engineer** @ TechCorp (2022 - Present)
-- Architected and deployed microservices handling 10M+ daily active users
-- Led team of 5 engineers in building cloud-native applications
-- Reduced infrastructure costs by 40% through optimization
-
-**Software Engineer** @ StartupXYZ (2020 - 2022)
-- Built full-stack features using React, Node.js, and PostgreSQL
-- Implemented CI/CD pipelines reducing deployment time by 60%
-- Mentored junior developers and conducted code reviews
 
 ## 🌐 Connect With Me
 
