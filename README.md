@@ -19,15 +19,13 @@ I'm a passionate software engineer who loves turning complex problems into elega
 
 **Languages**
 ```
-JavaScript    ████████████████████░   95%
-Java          ███████████████████░░   90%
-Mern          ████████████████░░░░░   80%
+JavaScript    ████████████████████░   80%
+Java          ███████████████████░░   70%
+Mern          ████████████████░░░░░   70%
 React.Js      ███████████░░░░░░░░░░   55%
 ```
 
 **Technologies & Tools**
-
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -53,7 +51,7 @@ React.Js      ███████████░░░░░░░░░░   
 
 ## 🏆 Achievements
 
-- 🥇 **500+** contributions in the last year
+- 🥇 **100+** contributions in the last year
 - ⭐ **10+** stars across personal projects
 - 🎯 **Hackathon Participate** at PU code Hackathon 3.0
 - 🎓 **Neo.j Certified Solutions Architect**
