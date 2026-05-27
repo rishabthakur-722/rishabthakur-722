@@ -63,7 +63,7 @@ Modern AI-powered MERN project that converts text prompts into high-quality imag
 
 🔗 Live Demo
 
-https://6a168b9bdcaf2161dd8f3656--magical-lily-2d2cfb.netlify.app/
+https://magical-lily-2d2cfb.netlify.app/
 
 💻 GitHub Repository
 
