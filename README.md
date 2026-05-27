@@ -56,17 +56,18 @@ React.Js      ███████████░░░░░░░░░░   
 - 🎯 **Hackathon Participate** at PU code Hackathon 3.0
 - 🎓 **Neo.j Certified Solutions Architect**
 
-## 🔥 Featured Projects
+🔥 Featured Project
+🎨 AI Text-to-Image Generator
 
-<div align="center">
-## 📌 Featured Project
+Modern AI-powered MERN project that converts text prompts into high-quality images in seconds.
 
-### 🎨 Text-to-Image Generator
+🔗 Live Demo
 
-A full-stack MERN project that generates images from text prompts using AI APIs.
+https://6a168b9bdcaf2161dd8f3656--magical-lily-2d2cfb.netlify.app/
 
-🔗 **Live Demo:** https://text-to-image-generator-phi.vercel.app/  
-💻 **GitHub Repo:** https://github.com/rishabthakur-722/YOUR_GITHUB_REPO_LINK
+💻 GitHub Repository
+
+https://github.com/rishabthakur-722
 
 ---
 
